@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bem Vindo ao meu Perfil
+## 👋 Olá, Sou **_Kalluan Cartoon_**
+<br>
 
-<!--
-**kalluancartoon/kalluancartoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍀🤞 Meu sonho de ser um grande **_desenvolvedor_** irei realizar! 🤞🍀 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estou cursando **_Sistema da Informação_** **2° Período**
+- 👨‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, 
+- 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **React**, **Sass**, **C++**, **SQL**, , **MySQL**.
+<br>
+##
+
+- 📧 Email: kalluan21@hotmail.com
+
