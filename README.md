@@ -10,8 +10,6 @@
 - 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **React**, **Sass**, **C++**, **SQL**, , **MySQL**.
 
 ##
- 📧 Email: kalluan21@hotmail.com
-##
 
 <div align="center">
   <a href="https://github.com/kalluancartoon">
@@ -31,4 +29,5 @@
  
  <div> 
   <a href="https://www.linkedin.com/in/kalluan-c-fiuza-b5a17b221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a> 
+  <a href="mailto:kalluan21@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"_blank"></a>
  </div>
