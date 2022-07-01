@@ -6,8 +6,8 @@
 
 
 - 🎓 Estou cursando **_Sistemas de Informação_** **2° Período**
-- 👨‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, 
-- 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **React**, **Sass**, **C++**, **SQL**, , **MySQL**.
+- 👨‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, **_GIT_**.
+- 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **ReactJS**, **Sass**, **C++**, **SQL**, **Java**, **MySQL**.
 
 ##
 
