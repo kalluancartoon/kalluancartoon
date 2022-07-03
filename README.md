@@ -7,7 +7,7 @@
 
 - 🎓 Estou cursando **_Sistemas de Informação_** **2° Período**
 - 👨‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, **_GIT_**.
-- 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **ReactJS**, **Sass**, **C++**, **SQL**, **Java**, **MySQL**.
+- 📑 Linguagens, bibliotecas e framework que quero estudar: **Banco de dados**, **PHP**, **TypeScript**, **ReactJS**, **Sass**, **C++**, **SQL**,  **_Nodejs_**, **Java**, **MySQL**.
 
 ##
 
@@ -24,6 +24,7 @@
   <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 </div>
  
