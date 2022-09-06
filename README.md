@@ -6,10 +6,19 @@
 
 
 - 🎓 Estou cursando **_Sistemas de Informação_** **3° Período**
-- 👨‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, **_GIT_**.
+- 👨🏿‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, **_GIT_**.
 - 📑 Linguagens, bibliotecas e framework que quero estudar: **MySQL**, **PHP**, **TypeScript**, **ReactJS**, **Sass**, **C++**, **_Nodejs_**, **Java**.
 
 ##
+
+### 👨🏿‍💻 Sistema Operacional que utilizo
+ <div stlyle="display: inline_block">
+  <img align="center" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+  <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+ </div>
+  
+  ##
+  
 
 <div align="center">
   <a href="https://github.com/kalluancartoon">
