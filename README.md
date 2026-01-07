@@ -28,7 +28,7 @@ Ferramentas e metodologias que domino:
 
 ---
 
- ### 📊 Contato & Redes
+ ### 🗣️ Contato & Redes
  
  <div> 
   <a href="https://www.linkedin.com/in/kalluan-c-fiuza-b5a17b221/" target="_blank"><img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"_blank"></a> 
