@@ -1,4 +1,3 @@
-# 💫Bem Vindo ao meu Perfil💫
 # Olá, sou Kalluan Fiuza 👋
 ### Desenvolvedor Python | Pesquisador em HealthTech | Criador do Nefrodiag
 
