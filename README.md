@@ -1,23 +1,32 @@
 # 💫Bem Vindo ao meu Perfil💫
-## 👋 Olá, Sou **_Kalluan Cartoon_** 👨‍🎓
+# Olá, sou Kalluan Fiuza 👋
+### Desenvolvedor Python | Pesquisador em HealthTech | Criador do Nefrodiag
 
+ Sou Bacharel em Sistemas de Informação e atuo na intersecção entre Tecnologia e Saúde. Como paciente renal, transformei minha vivência em inovação, desenvolvendo soluções de **Inteligência Artificial** para auxiliar no diagnóstico médico.
+ Meu foco é utilizar Engenharia de Conhecimento e algoritmos para resolver problemas reais e salvar vidas.
 
-🍀🤞 Meu sonho de ser um grande **_desenvolvedor_** irei realizar! 🤞🍀 
+---
 
+## 🏆 Destaque Principal
+**[Nefrodiag]**: Sistema Especialista de Apoio ao Diagnóstico da Síndrome Nefrótica.
+* *Projeto premiado como Melhor TCC do Semestre.*
+* *Software registrado no INPI (Processo em andamento).*
+* **Produto Finalizado:** Executável instalável e multiplataforma (roda nativamente em **Windows** e **Linux**).
+* **Interface:** UI Moderna desenvolvida com `CustomTkinter`.
+* **Motor de IA:** Baseado em Regras Lógicas (Biblioteca `experta`).
+* **Diferencial:** Focado em **XAI (Explainable AI)**, garantindo diagnósticos transparentes e auditáveis, cruciais para a área médica.
 
-- 🎓 Estou cursando **_Sistemas de Informação_** **8° Período**
-- 👨🏿‍💻 Linguagens, bibliotecas e framework que estou estudando: **_Python_**, **Java**, **_JavaScript_**, **_HTML_**, **_CSS_**, **_Bootstrap_**, **_GIT_**.
-- 📑 Linguagens, bibliotecas e framework que quero estudar: **MySQL**, **PHP**, **TypeScript**, **ReactJS**, **Sass**, **C#**, **_Nodejs_**.
+---
 
-##
+### 🚀 Stack Tecnológico & Conceitos
+Ferramentas e metodologias que domino:
 
-### 👨🏿‍💻 Sistema Operacional que utilizo
- <div stlyle="display: inline_block">
-  <img align="center" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-  <img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
- </div>
-  
-  ##
+<div style="display: inline_block">
+  <img align="center" alt="Kalluan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kalluan-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
   
 
 <div align="center">
