@@ -8,7 +8,7 @@
 ---
 
 ## 🏆 Destaque Principal
-**[Nefrodiag]**: Sistema Especialista de Apoio ao Diagnóstico da Síndrome Nefrótica.
+**[NephroDiag]**: Sistema Especialista de Apoio ao Diagnóstico da Síndrome Nefrótica.
 * *Projeto premiado como Melhor TCC do Semestre.*
 * *Software registrado no INPI (Processo em andamento).*
 * **Produto Finalizado:** Executável instalável e multiplataforma (roda nativamente em **Windows** e **Linux**).
