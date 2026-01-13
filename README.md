@@ -27,11 +27,10 @@ Ferramentas e metodologias que domino:
 
 ---
 
- ### 🗣️ Contato & Redes
- 
- <div> 
-  <a href="https://www.linkedin.com/in/kalluan-c-fiuza-b5a17b221/" target="_blank"><img align="center" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"_blank"></a> 
-  <a href="mailto:kalluan21@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"_blank"></a>
-   
+### 🗣️ Contato & Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalluan-c-fiuza-b5a17b221/)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-295595?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/7267245059752858)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kalluancartoon@gmail.com)
     
  </div>
