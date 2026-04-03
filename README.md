@@ -31,6 +31,6 @@ Ferramentas e metodologias que domino:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalluan-c-fiuza-b5a17b221/)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-295595?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/7267245059752858)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kalluancartoon@gmail.com)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contato@kalluancartoon.com.br)
     
  </div>
